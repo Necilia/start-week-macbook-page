@@ -1,4 +1,4 @@
-#  Clone da Página do MacBook Air 
+# 🍎 Clone da Página do MacBook Air 
 
 Projeto desenvolvido durante a **Start Week da DIO**, com o objetivo de praticar e consolidar habilidades em **HTML5**, **CSS3** e **JavaScript Vanilla**, recriando visualmente a página oficial do MacBook Air da Apple.
 
