@@ -16,7 +16,7 @@ Esse projeto teve como foco a fidelidade visual, organização de código e apli
 
 ## 🖼️ Preview do Projeto
 
-🔗 Acesse online: [https://necilia.github.io/start-week-macbook-page/](https://necilia.github.io/start-week-macbook-page/)
+🔗 Acesse online: []()
 
 ![Página Clone MacBook Air](./src/assets/images/preview.png)  
 💡 *Página Clone MacBook Air — uma versão fiel e responsiva inspirada na página oficial da Apple.*
