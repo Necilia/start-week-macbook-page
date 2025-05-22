@@ -14,7 +14,7 @@ Esse projeto teve como foco a fidelidade visual, organização de código e apli
 
 ---
 
-## 🖼️ Preview do Projeto
+## ![Pré-visualização do meu proketo](preview.png)
 
 🔗 Acesse online: [https://github.com/Necilia](https://necilia.github.io/start-week-macbook-page/
 )
