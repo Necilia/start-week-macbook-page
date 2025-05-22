@@ -14,13 +14,12 @@ Esse projeto teve como foco a fidelidade visual, organização de código e apli
 
 ---
 
-## ![Pré-visualização do meu proketo](preview.png)
+## ![Pré-visualização do meu projeto](images/preview.png)
+*Pré-visualização da interface do projeto. 💻*
 
 🔗 Acesse online: [https://github.com/Necilia](https://necilia.github.io/start-week-macbook-page/
 )
 
-![Página Clone MacBook Air](./src/images/preview.png)  
-💡 *Página Clone MacBook Air — uma versão fiel e responsiva inspirada na página oficial da Apple.*
 
 ---
 
