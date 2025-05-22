@@ -14,7 +14,7 @@ Esse projeto teve como foco a fidelidade visual, organização de código e apli
 
 ---
 
- *Pré -visualização da interface do projeto* 
+
 ## ![Pré-visualização do meu projeto](images/preview.png)
 
 
